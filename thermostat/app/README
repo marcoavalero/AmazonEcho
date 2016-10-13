@@ -1,0 +1,6 @@
+This skill was tested on a Ubuntu server
+
+Please install the following dependencies:
+sudo apt-get install libffi-dev
+pip install flask
+pip install cryptography

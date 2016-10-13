@@ -1,0 +1,39 @@
+{
+  "intents": [
+    {
+      "intent": "Help",
+      "slots": []
+    },
+    {
+      "intent": "Hello",
+      "slots": [
+        {
+          "name": "person",
+          "type": "LIST_OF_NAMES"
+        }
+      ]
+    },
+    {
+      "intent": "GetNames",
+      "slots": []
+    },
+    {
+      "intent": "GetMessages",
+      "slots": [
+        {
+          "name": "person",
+          "type": "LIST_OF_NAMES"
+        }
+      ]
+    },
+    {
+      "intent": "Bye",
+      "slots": [
+        {
+          "name": "person",
+          "type": "LIST_OF_NAMES"
+        }
+      ]
+    },
+  ]
+}

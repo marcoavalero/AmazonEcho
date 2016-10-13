@@ -1,0 +1,15 @@
+Help help
+Help help me
+Help what can I say
+Help what can I ask you
+
+Hello say hi to {doctor raj|person}
+Hello {Nick|person} is here
+
+GetNames get names
+GetNames who's available
+
+GetMessages get messages for {doctor king|person}
+GetMessages is there a message for {person}
+
+Bye {Marco|person} is leaving

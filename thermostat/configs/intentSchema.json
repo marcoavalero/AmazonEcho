@@ -1,0 +1,21 @@
+{
+   "intents" : [
+      {
+         "intent" : "Increase",
+         "slots" : []
+      },
+      {
+         "intent" : "Reduce",
+         "slots" : []
+      },
+      {
+         "intent" : "Update",
+         "slots" : [
+            {
+               "name" : "temp",
+               "type" : "AMAZON.NUMBER"
+            }
+         ]
+      }
+   ]
+}

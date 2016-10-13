@@ -1,0 +1,8 @@
+Increase I am cold
+Increase it is cold
+
+Reduce it is hot
+Reduce I am hot
+
+Update set temperature to {temp} degrees
+Update change temperature to {temp} degrees
